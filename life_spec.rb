@@ -65,3 +65,5 @@ def test_add_neighbour state, cells, alive
   end
   cell
 end
+
+Made some changes
